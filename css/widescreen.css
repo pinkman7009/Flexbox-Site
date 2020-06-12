@@ -1,0 +1,14 @@
+/* Section: What */
+#what .items .item {
+	display: flex;
+	text-align: left;
+}
+
+#what .items .item i {
+	margin: 1rem;
+	align-self: center;
+}
+/* Map */
+#contact .map {
+	flex: 2;
+}

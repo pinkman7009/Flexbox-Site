@@ -1,0 +1,58 @@
+/* Body */
+head {
+	overflow-x: hidden;
+}
+body {
+	overflow-x: hidden;
+}
+/* Navbar */
+#navbar {
+	flex-direction: column;
+	align-items: center;
+}
+#navbar i,
+#navbar h1 {
+	text-align: center;
+}
+
+#navbar ul li a {
+	padding: 0.5rem;
+}
+/* Section : What we are */
+#what .items {
+	display: block;
+	padding: 1rem 0;
+}
+#what .items .item {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	border-bottom: 1px solid #999;
+}
+
+#what .items .item i {
+	margin: 1.5rem 0;
+	align-self: center;
+}
+/* Section : Who we are */
+#who {
+	display: block;
+}
+#who .who-img {
+	display: none;
+}
+/* Section : Clients */
+#clients .item:last-child {
+	display: none;
+}
+#clients .item {
+	width: 6rem;
+}
+/* Section : Contact */
+#contact {
+	display: block;
+}
+#contact .map {
+	height: 20rem;
+	border-top: 4px solid #333;
+}
