@@ -9,5 +9,5 @@ A fictional site made majorly using CSS Flexbox. Made responsive using media que
 ## Showcase area 
 <img src="screenshots/showcaseflex.png">
 
-##R Responsive view on smaller devices 
+## Responsive view on smaller devices 
 <img src="screenshots/flexmobile.png">
